@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "ShootingWebGL.data.unityweb",
+"asmCodeUrl": "ShootingWebGL.asm.code.unityweb",
+"asmMemoryUrl": "ShootingWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "ShootingWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
